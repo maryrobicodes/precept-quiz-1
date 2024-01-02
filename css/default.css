@@ -10,7 +10,7 @@ margin: 0px;
 #game {
 	background-color: white;
 	margin: auto;
-	width: 50%;
+	width: 90%;
 	text-align: center;
 }
 #txt1 {
@@ -32,7 +32,7 @@ font-family: 'Sawarabi Gothic', sans-serif;
 	margin: auto;
 	font-family: 'Anton', sans-serif;
 font-family: 'Sawarabi Gothic', sans-serif;
-height: 250px;
+height: 50vh;
 overflow: scroll;
 
 }
